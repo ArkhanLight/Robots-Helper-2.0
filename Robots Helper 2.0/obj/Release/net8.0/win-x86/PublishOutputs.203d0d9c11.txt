@@ -1,0 +1,4 @@
+C:\Users\Ruben\Desktop\Robots Helpert 2.0\Robots Helper 2.0\Robots Helper 2.0\bin\Robots Helper 2.0.pdb
+C:\Users\Ruben\Desktop\Robots Helpert 2.0\Robots Helper 2.0\Robots Helper 2.0\bin\cimgui.dll
+C:\Users\Ruben\Desktop\Robots Helpert 2.0\Robots Helper 2.0\Robots Helper 2.0\bin\SDL2.dll
+C:\Users\Ruben\Desktop\Robots Helpert 2.0\Robots Helper 2.0\Robots Helper 2.0\bin\Robots Helper 2.0.exe
